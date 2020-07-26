@@ -7,7 +7,6 @@ import os
 #
 # 작성일 : 20200725
 # 작성자 : JunHyeon.Kim
-# 주소   : https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=104&docId=363350154
 #
 
 class ImagGet():
